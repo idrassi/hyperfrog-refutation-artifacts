@@ -1,8 +1,8 @@
-# HyperFrog Refutation Artifacts
+# HyperFrog Topology Predicate Artifacts
 
-Artifacts accompanying the paper `On the Vacuity of the HyperFrog Topology Predicate`.
+Artifacts accompanying the paper `Quantifying the HyperFrog Topology Predicate at the Published Parameters`.
 
-Repository URL intended for citation in the paper:
+Repository URL cited by the paper:
 
 - `https://github.com/idrassi/hyperfrog-refutation-artifacts`
 

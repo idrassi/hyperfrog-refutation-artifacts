@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the repository and the associated paper."
+title: "HyperFrog Topology Predicate Artifacts"
+type: software
+authors:
+  - family-names: "Idrassi"
+    given-names: "Mounir"
+repository-code: "https://github.com/idrassi/hyperfrog-refutation-artifacts"
+license: "MIT"
+abstract: "Artifacts accompanying the paper 'Quantifying the HyperFrog Topology Predicate at the Published Parameters'."
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Idrassi"
+      given-names: "Mounir"
+  title: "Quantifying the HyperFrog Topology Predicate at the Published Parameters"
+  year: 2026
