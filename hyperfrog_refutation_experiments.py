@@ -119,7 +119,7 @@ def create_figure(bulk_df, topo_df, outpath):
     ax3 = fig.add_subplot(gs[1, 0])
     ax3.hist(topo_df['B'], bins=35, edgecolor='white')
     ax3.axvline(5760, linestyle='--', linewidth=1.5)
-    ax3.set_title('(c) Boundary-edge count ||Ds||_0 on 10,000 samples')
+    ax3.set_title('(c) Internal boundary-edge count B(s) on 10,000 samples')
     ax3.set_xlabel('Boundary-edge count')
     ax3.set_ylabel('Count')
     ax3.text(0.98, 0.95, f"mean = {topo_df['B'].mean():.1f}\nrandom expectation = 5760", transform=ax3.transAxes,

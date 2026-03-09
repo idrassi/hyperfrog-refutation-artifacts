@@ -5,7 +5,7 @@
   "tv_bound_secret_vs_uniform": 2.1796336280299755e-07,
   "expected_trials_upper_bound": 1.0000002179634102,
   "bulk_mean_V": 2048.03165,
-  "bulk_std_V": 31.981471142248353,
+  "bulk_std_V": 31.9814711422475,
   "bulk_mean_E": 2880.15177,
   "bulk_mean_B": 5759.85263,
   "bulk_min_lb": 562,
