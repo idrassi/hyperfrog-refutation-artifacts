@@ -1,6 +1,6 @@
-# HyperFrog Topology Predicate Artifacts
+# Artifacts for HyperFrog's Formal Miner Is Almost Uniform
 
-Artifacts accompanying the paper `Quantifying the HyperFrog Topology Predicate at the Published Parameters`.
+Artifacts accompanying the paper `HyperFrog's Formal Miner Is Almost Uniform`.
 
 Repository URL cited by the paper:
 
