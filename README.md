@@ -8,6 +8,7 @@ Repository URL cited by the paper:
 
 ## Contents
 
+- `HyperFrog_refutation.pdf`: current paper PDF
 - `hyperfrog_refutation_experiments.py`: standalone reproduction script
 - `bulk_metrics_100k.csv`: bulk statistics on 100,000 uniform samples
 - `topology_metrics_10k.csv`: component and cycle-rank diagnostics on 10,000 samples
