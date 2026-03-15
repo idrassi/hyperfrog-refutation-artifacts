@@ -2,6 +2,11 @@
 
 Artifacts accompanying the paper `HyperFrog's Formal Miner Is Almost Uniform`.
 
+Paper details:
+
+- IDRASSI, M. (2026). *HyperFrog's Formal Miner Is Almost Uniform*. Zenodo. https://doi.org/10.5281/zenodo.18976980
+- PDF in this repository: `HyperFrog_refutation.pdf`
+
 Repository URL cited by the paper:
 
 - `https://github.com/idrassi/hyperfrog-refutation-artifacts`
